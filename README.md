@@ -5,4 +5,6 @@ https://app.powerbi.com/groups/me/reports/66c443ff-3db6-414c-acaf-05dd8e8f1843?c
 
 [Captura de Tela (24)](https://github.com/DanielCauldron/Desafio-de-Projeto-Dio/assets/109694503/143188de-29f0-4119-bc8a-ddf44345e3ec)
 
+<img>[Captura de Tela (24)](https://github.com/DanielCauldron/Desafio-de-Projeto-Dio/assets/109694503/143188de-29f0-4119-bc8a-ddf44345e3ec)<img/>
+
 
